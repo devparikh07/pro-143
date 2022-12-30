@@ -1,0 +1,57 @@
+
+body
+{
+    background-position: center;
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+    text-align: left;
+    margin-bottom: 5px;
+    box-shadow: 5px 5px 5px rgb(255, 0, 0);
+}
+.heading button{
+    float: right;
+    border: 5.5px solid springgreen;
+}
+.heading h3{
+    display: inline;
+    font-size: 22px;
+    background-color: indigo;
+    color: lime;
+}
+.footer{
+    background-color: rgb(176, 204, 35);
+    width: 100%;
+    margin-bottom: 0px;
+    color: rgb(74, 14, 237);
+    line-height: 2;
+    bottom: 0px;
+    position: sticky;
+    font-weight: bold;
+    box-shadow: 5px 5px 5px rgb(255, 8, 243);
+}
+.modal-body{
+    text-align: left;
+    
+}
+canvas{
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px rgb(255, 0, 0);
+    border: 3px solid navy;
+    border-radius: 30px;
+    
+}
+
+#restart_button{
+    border-radius: 50px;
+}
+
+#start_button{
+    border-radius: 50px;
+}
+
+#Instructions
+{
+    border-radius: 50px;
+}
